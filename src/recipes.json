@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "description": "A hearty Italian classic with a rich meat sauce.",
+      "ingredients": ["Spaghetti", "Ground beef", "Tomato sauce", "Garlic", "Onion", "Olive oil", "Basil", "Salt", "Pepper"]
+    },
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "description": "A spicy and aromatic curry with tender chicken pieces.",
+      "ingredients": ["Chicken", "Curry powder", "Coconut milk", "Tomatoes", "Onion", "Garlic", "Ginger", "Cilantro", "Salt"]
+    },
+    {
+      "id": 3,
+      "title": "Beef Stroganoff",
+      "description": "A creamy Russian dish with tender strips of beef and mushrooms.",
+      "ingredients": ["Beef sirloin", "Mushrooms", "Sour cream", "Onion", "Garlic", "Beef broth", "Mustard", "Paprika", "Butter"]
+    },
+    {
+      "id": 4,
+      "title": "Caesar Salad",
+      "description": "A fresh salad with crisp romaine and a tangy Caesar dressing.",
+      "ingredients": ["Romaine lettuce", "Croutons", "Parmesan", "Caesar dressing", "Anchovies"]
+    },
+    {
+      "id": 5,
+      "title": "Grilled Cheese Sandwich",
+      "description": "A simple yet delicious sandwich with melty cheddar.",
+      "ingredients": ["Bread", "Cheddar cheese", "Butter"]
+    },
+    {
+      "id": 6,
+      "title": "Margherita Pizza",
+      "description": "A classic pizza topped with tomatoes, mozzarella, and fresh basil.",
+      "ingredients": ["Pizza dough", "Tomatoes", "Mozzarella", "Basil", "Olive oil", "Salt"]
+    },
+    {
+      "id": 7,
+      "title": "Pancakes",
+      "description": "Fluffy pancakes perfect for a hearty breakfast.",
+      "ingredients": ["Flour", "Milk", "Eggs", "Baking powder", "Sugar", "Salt", "Butter"]
+    },
+    {
+      "id": 8,
+      "title": "French Toast",
+      "description": "Golden slices of bread soaked in a sweet egg mixture and fried.",
+      "ingredients": ["Bread", "Eggs", "Milk", "Vanilla", "Cinnamon", "Sugar", "Butter"]
+    },
+    {
+      "id": 9,
+      "title": "Tacos",
+      "description": "Traditional tacos filled with seasoned meat and fresh toppings.",
+      "ingredients": ["Ground beef", "Taco seasoning", "Lettuce", "Tomato", "Cheddar", "Sour cream", "Tortillas"]
+    },
+    {
+      "id": 10,
+      "title": "Pad Thai",
+      "description": "A flavorful Thai stir-fried noodle dish with a tangy sauce.",
+      "ingredients": ["Rice noodles", "Shrimp or tofu", "Eggs", "Bean sprouts", "Peanuts", "Tamarind paste", "Fish sauce", "Garlic", "Lime"]
+    },
+    {
+      "id": 11,
+      "title": "Sushi Rolls",
+      "description": "Delicate rolls with fresh fish, vegetables, and seasoned rice.",
+      "ingredients": ["Sushi rice", "Nori", "Cucumber", "Avocado", "Crab sticks", "Soy sauce", "Wasabi"]
+    },
+    {
+      "id": 12,
+      "title": "Ramen",
+      "description": "A comforting bowl of noodles in a savory broth with toppings.",
+      "ingredients": ["Ramen noodles", "Chicken broth", "Soy sauce", "Miso paste", "Pork", "Egg", "Green onions", "Bamboo shoots"]
+    },
+    {
+      "id": 13,
+      "title": "Fish and Chips",
+      "description": "Crispy battered fish served with thick-cut fries.",
+      "ingredients": ["Cod", "Potatoes", "Flour", "Beer", "Salt", "Tartar sauce", "Oil"]
+    },
+    {
+      "id": 14,
+      "title": "Steak Frites",
+      "description": "Juicy steak paired with perfectly crispy fries.",
+      "ingredients": ["Steak", "Potatoes", "Salt", "Pepper", "Olive oil", "Butter"]
+    },
+    {
+      "id": 15,
+      "title": "BBQ Ribs",
+      "description": "Slow-cooked pork ribs glazed with tangy barbecue sauce.",
+      "ingredients": ["Pork ribs", "BBQ sauce", "Brown sugar", "Paprika", "Garlic powder", "Salt", "Pepper"]
+    },
+    {
+      "id": 16,
+      "title": "Greek Salad",
+      "description": "A refreshing salad with tomatoes, cucumber, olives, and feta.",
+      "ingredients": ["Tomatoes", "Cucumber", "Red onion", "Olives", "Feta", "Olive oil", "Oregano", "Salt"]
+    },
+    {
+      "id": 17,
+      "title": "Lobster Bisque",
+      "description": "A rich and creamy soup made with lobster and aromatic spices.",
+      "ingredients": ["Lobster", "Heavy cream", "Tomato paste", "Butter", "Onion", "Garlic", "Fish stock", "Sherry"]
+    },
+    {
+      "id": 18,
+      "title": "Chicken Alfredo",
+      "description": "Fettuccine pasta tossed in a creamy Alfredo sauce with chicken.",
+      "ingredients": ["Fettuccine", "Chicken breast", "Heavy cream", "Parmesan", "Garlic", "Butter", "Salt", "Pepper"]
+    },
+    {
+      "id": 19,
+      "title": "Eggs Benedict",
+      "description": "Poached eggs and Canadian bacon atop English muffins, drizzled with hollandaise.",
+      "ingredients": ["English muffins", "Eggs", "Canadian bacon", "Hollandaise sauce", "Lemon", "Cayenne pepper"]
+    },
+    {
+      "id": 20,
+      "title": "Chili con Carne",
+      "description": "A robust chili with ground beef, beans, and a blend of spices.",
+      "ingredients": ["Ground beef", "Kidney beans", "Tomatoes", "Chili powder", "Cumin", "Garlic", "Onion", "Bell peppers"]
+    },
+    {
+      "id": 21,
+      "title": "Falafel Wrap",
+      "description": "Crispy falafel balls wrapped in pita with fresh veggies and tahini.",
+      "ingredients": ["Chickpeas", "Garlic", "Onion", "Parsley", "Cumin", "Coriander", "Flour", "Pita bread", "Tahini"]
+    },
+    {
+      "id": 22,
+      "title": "Moussaka",
+      "description": "A layered casserole with eggplant, ground lamb, and creamy béchamel.",
+      "ingredients": ["Eggplant", "Ground lamb", "Tomatoes", "Béchamel sauce", "Onion", "Garlic", "Cinnamon"]
+    },
+    {
+      "id": 23,
+      "title": "Gnocchi",
+      "description": "Soft potato dumplings served with a rich tomato sauce.",
+      "ingredients": ["Potatoes", "Flour", "Egg", "Salt", "Tomato sauce", "Basil", "Parmesan"]
+    },
+    {
+      "id": 24,
+      "title": "Shrimp Scampi",
+      "description": "Succulent shrimp sautéed in garlic butter and white wine, served with pasta.",
+      "ingredients": ["Shrimp", "Garlic", "Butter", "Lemon", "White wine", "Parsley", "Pasta"]
+    },
+    {
+      "id": 25,
+      "title": "Mushroom Risotto",
+      "description": "Creamy risotto with a medley of mushrooms and Parmesan.",
+      "ingredients": ["Arborio rice", "Mushrooms", "White wine", "Onion", "Garlic", "Vegetable broth", "Parmesan", "Butter"]
+    },
+    {
+      "id": 26,
+      "title": "Chicken Noodle Soup",
+      "description": "A comforting soup loaded with chicken, vegetables, and noodles.",
+      "ingredients": ["Chicken", "Noodles", "Carrots", "Celery", "Onion", "Garlic", "Chicken broth", "Thyme"]
+    },
+    {
+      "id": 27,
+      "title": "Clam Chowder",
+      "description": "A creamy New England-style chowder with clams and potatoes.",
+      "ingredients": ["Clams", "Potatoes", "Bacon", "Cream", "Onion", "Celery", "Butter", "Salt", "Pepper"]
+    },
+    {
+      "id": 28,
+      "title": "Beef Tacos",
+      "description": "Tasty tacos filled with seasoned beef and fresh toppings.",
+      "ingredients": ["Beef", "Taco seasoning", "Lettuce", "Tomato", "Cheddar", "Sour cream", "Tortillas"]
+    },
+    {
+      "id": 29,
+      "title": "Enchiladas",
+      "description": "Rolled tortillas stuffed with chicken and beans, topped with enchilada sauce.",
+      "ingredients": ["Tortillas", "Chicken", "Enchilada sauce", "Cheese", "Beans", "Onion", "Cumin"]
+    },
+    {
+      "id": 30,
+      "title": "Fried Rice",
+      "description": "A quick stir-fried rice dish loaded with eggs and vegetables.",
+      "ingredients": ["Rice", "Eggs", "Peas", "Carrots", "Soy sauce", "Green onions", "Sesame oil"]
+    },
+    {
+      "id": 31,
+      "title": "Dim Sum",
+      "description": "A selection of bite-sized dumplings and steamed treats.",
+      "ingredients": ["Assorted dumplings", "Shrimp", "Pork", "Vegetables", "Soy sauce"]
+    },
+    {
+      "id": 32,
+      "title": "Currywurst",
+      "description": "A German street food favorite featuring spiced sausage and curry ketchup.",
+      "ingredients": ["Bratwurst", "Curry ketchup", "Curry powder", "Fries"]
+    },
+    {
+      "id": 33,
+      "title": "Poutine",
+      "description": "A Canadian classic of fries topped with cheese curds and rich gravy.",
+      "ingredients": ["French fries", "Cheese curds", "Gravy"]
+    },
+    {
+      "id": 34,
+      "title": "Bangers and Mash",
+      "description": "Traditional British sausages served with creamy mashed potatoes and onion gravy.",
+      "ingredients": ["Sausages", "Mashed potatoes", "Onion gravy", "Peas"]
+    },
+    {
+      "id": 35,
+      "title": "Shepherd's Pie",
+      "description": "A savory pie with ground lamb, vegetables and a mashed potato topping.",
+      "ingredients": ["Ground lamb", "Mixed vegetables", "Mashed potatoes", "Gravy"]
+    },
+    {
+      "id": 36,
+      "title": "Chicken Parmesan",
+      "description": "Breaded chicken breast topped with marinara and melted cheeses.",
+      "ingredients": ["Chicken breast", "Marinara sauce", "Mozzarella", "Parmesan", "Breadcrumbs", "Pasta"]
+    },
+    {
+      "id": 37,
+      "title": "Spicy Tuna Roll",
+      "description": "A sushi roll featuring spicy tuna with avocado and sesame seeds.",
+      "ingredients": ["Sushi rice", "Tuna", "Sriracha", "Avocado", "Nori", "Sesame seeds"]
+    },
+    {
+      "id": 38,
+      "title": "Beef Wellington",
+      "description": "A show-stopping dish of beef tenderloin wrapped in puff pastry.",
+      "ingredients": ["Beef tenderloin", "Puff pastry", "Mushroom duxelles", "Prosciutto", "Egg wash"]
+    },
+    {
+      "id": 39,
+      "title": "Quiche Lorraine",
+      "description": "A rich custard tart filled with bacon, cheese, and onions.",
+      "ingredients": ["Pie crust", "Eggs", "Bacon", "Cheese", "Cream", "Onion"]
+    },
+    {
+      "id": 40,
+      "title": "Lamb Gyro",
+      "description": "Greek-style lamb served in pita with tzatziki and fresh vegetables.",
+      "ingredients": ["Lamb", "Pita bread", "Tzatziki", "Tomato", "Onion", "Lettuce"]
+    },
+    {
+      "id": 41,
+      "title": "Caprese Salad",
+      "description": "A simple Italian salad of fresh tomatoes, mozzarella, and basil.",
+      "ingredients": ["Tomatoes", "Mozzarella", "Basil", "Olive oil", "Balsamic vinegar", "Salt"]
+    },
+    {
+      "id": 42,
+      "title": "Cobb Salad",
+      "description": "A hearty salad loaded with chicken, bacon, avocado and blue cheese.",
+      "ingredients": ["Lettuce", "Chicken", "Bacon", "Avocado", "Tomato", "Hard-boiled egg", "Blue cheese", "Dressing"]
+    },
+    {
+      "id": 43,
+      "title": "Stuffed Peppers",
+      "description": "Bell peppers filled with a savory mixture of beef, rice and tomatoes.",
+      "ingredients": ["Bell peppers", "Ground beef", "Rice", "Tomatoes", "Onion", "Cheese"]
+    },
+    {
+      "id": 44,
+      "title": "Eggplant Parmesan",
+      "description": "Layers of breaded eggplant baked with marinara and cheeses.",
+      "ingredients": ["Eggplant", "Tomato sauce", "Mozzarella", "Parmesan", "Breadcrumbs", "Basil"]
+    },
+    {
+      "id": 45,
+      "title": "Chicken Fajitas",
+      "description": "Sizzling chicken with bell peppers and onions served with tortillas.",
+      "ingredients": ["Chicken", "Bell peppers", "Onions", "Tortillas", "Fajita seasoning", "Lime"]
+    },
+    {
+      "id": 46,
+      "title": "Ratatouille",
+      "description": "A rustic French vegetable stew full of flavor and color.",
+      "ingredients": ["Eggplant", "Zucchini", "Bell peppers", "Tomatoes", "Onion", "Garlic", "Olive oil", "Herbs"]
+    },
+    {
+      "id": 47,
+      "title": "Bruschetta",
+      "description": "Toasted baguette slices topped with a fresh tomato and basil mixture.",
+      "ingredients": ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil", "Balsamic vinegar"]
+    },
+    {
+      "id": 48,
+      "title": "Pad Kra Pao",
+      "description": "A Thai stir-fry with ground chicken, holy basil and a kick of chili.",
+      "ingredients": ["Ground chicken", "Basil", "Chili", "Garlic", "Soy sauce", "Fish sauce", "Rice"]
+    },
+    {
+      "id": 49,
+      "title": "Bibimbap",
+      "description": "A vibrant Korean rice bowl topped with vegetables, beef and a fried egg.",
+      "ingredients": ["Rice", "Assorted vegetables", "Beef", "Egg", "Gochujang", "Sesame oil"]
+    },
+    {
+      "id": 50,
+      "title": "Pesto Pasta",
+      "description": "Pasta tossed in a fragrant basil pesto with cherry tomatoes and pine nuts.",
+      "ingredients": ["Pasta", "Basil pesto", "Cherry tomatoes", "Parmesan", "Pine nuts", "Olive oil"]
+    }
+]
